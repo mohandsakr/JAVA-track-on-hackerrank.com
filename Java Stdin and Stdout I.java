@@ -1,6 +1,6 @@
 
 /*
-* problem link:https://www.hackerrank.com/challenges/welcome-to-java/problem
+* problem link :https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
 *author:mohand sakr 
 *status:accepted
 *notes
